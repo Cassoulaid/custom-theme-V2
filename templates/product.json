@@ -54,8 +54,8 @@
           "settings": {
             "style": "with-border",
             "icon": "none",
-            "heading": "Collapsible row",
-            "content": "<p>Use collapsible tabs for more detailed information that will help customers make a purchasing decision.</p><p>Ex: Shipping and return policies, size guides, and other common questions.</p>",
+            "heading": "MoroFit 400",
+            "content": "<p>MORO FIT 400 est un complément alimentaire fabriqué en France, conçu pour s’intégrer dans une routine bien-être globale.</p><p>Chaque gélule contient <strong>400 mg de Morosil®</strong>, un extrait breveté d’orange Moro (Citrus Sinensis), naturellement riche en polyphénols et anthocyanes.</p><p>Sa formule associe des ingrédients d’origine naturelle reconnus pour leur intérêt dans le cadre d’une alimentation équilibrée et d’un mode de vie actif.</p><p><strong>Fabrication</strong></p><ul><li>Fabriqué en France</li><li>Conforme aux normes en vigueur</li><li>60 gélules - programme de 2 mois</li></ul><p><strong>A savoir</strong></p><ul><li>Ce complément ne remplace pas une alimentation variée et équilibrée</li><li>Ne pas utiliser pendant l'allaitement</li><li>Consulter un professionnel de santé en cas de doute </li></ul>",
             "page": "",
             "liquid": "",
             "opened": false
@@ -66,8 +66,8 @@
           "settings": {
             "style": "with-border",
             "icon": "none",
-            "heading": "Collapsible row",
-            "content": "<p>Use collapsible tabs for more detailed information that will help customers make a purchasing decision.</p><p>Ex: Shipping and return policies, size guides, and other common questions.</p>",
+            "heading": "Ingrédients & Dosages",
+            "content": "<ul><li><strong>Extrait sec d’orange rouge – Morosil® : 400 mg<br/></strong>Issu de la variété Moro (Citrus sinensis (L.) Osbeck), cet extrait est apprécié pour ses puissantes vertus antioxydantes et ses effets positifs sur le contrôle du poids.</li><li><strong>Vinaigre de cidre : 52,5 mg<br/></strong>Contribue à la régulation du métabolisme et favorise une bonne digestion.</li><li><strong>Extrait sec de guarana : 30 mg<br/></strong>Dont <strong>3,3 mg de caféine</strong>. Le guarana est traditionnellement utilisé pour stimuler le métabolisme des graisses et apporter un regain d’énergie.</li><li><strong>Poudre de noix de cola : 40 mg<br/></strong>Fournit également <strong>0,8 mg de caféine</strong> et participe à favoriser l’amincissement grâce à ses propriétés stimulantes.</li><li><em><strong>Chrome : 39 µg (98% VNR)</strong></em>*<br/>Le chrome joue un rôle essentiel dans la régulation du métabolisme des glucides et des lipides, contribuant ainsi au maintien d’une glycémie normale.</li></ul><p><em>Note : La dose journalière totale en caféine apportée par le produit est de 4,1 mg.</em></p>",
             "page": "",
             "liquid": "",
             "opened": false
@@ -78,8 +78,8 @@
           "settings": {
             "style": "with-border",
             "icon": "none",
-            "heading": "Collapsible row",
-            "content": "<p>Use collapsible tabs for more detailed information that will help customers make a purchasing decision.</p><p>Ex: Shipping and return policies, size guides, and other common questions.</p>",
+            "heading": "Conseils d'Utilisation",
+            "content": "<ul><li>Prendre 1 gélule minceur par jour pendant 60 jours.</li><li>Associer idéalement à une alimentation équilibrée et un grand verre d’eau</li><li>Ne pas dépasser la dose recommandée.</li><li>Déconseillé aux femmes enceintes ou allaitantes sans avis médical.</li></ul><h5><strong>Précautions : </strong></h5><p>Déconseillé en cas d’ulcère gastro-duodénal, de troubles cardiaques ou d’hyperthiroïdie. En cas de traitements, demandez conseil à votre pharmacien. Ne pas dépasser la zone journalière recommandée</p><p>Un complément alimentaire ne doit pas se substituer à une alimentation variée et équilibrée et à un mode de vie sain. </p>",
             "page": "",
             "liquid": "",
             "opened": false

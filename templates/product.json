@@ -30,7 +30,7 @@
         "icon_list_RtGJyr": {
           "type": "icon_list",
           "settings": {
-            "heading": "",
+            "heading": "custom.benefits",
             "enable_carousel": false,
             "show_below_media": false
           }

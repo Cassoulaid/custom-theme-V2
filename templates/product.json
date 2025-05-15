@@ -235,180 +235,14 @@
         "description": "<p>If you have any questions, you are always welcome to contact us. We'll get back to you as soon as possible, within 24 hours on weekdays.</p>"
       }
     },
-    "image-with-text-1": {
-      "type": "image-with-text",
-      "blocks": {
-        "image": {
-          "type": "image",
-          "settings": {
-            "image_width": "custom",
-            "image_max_width": 50,
-            "image_max_width_mobile": 50
-          }
-        },
-        "heading": {
-          "type": "heading",
-          "settings": {
-            "heading": "Image with text",
-            "heading_size": "title-md",
-            "heading_tag": "h2",
-            "highlighted_text": "none",
-            "highlighted_scribble": "circle"
-          }
-        },
-        "text": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
-            "text_size": "subtext-md",
-            "text_max_size": 32,
-            "text_font": "body",
-            "secondary_color": false,
-            "highlighted_text": "none",
-            "highlighted_scribble": "circle"
-          }
-        }
-      },
-      "block_order": [
-        "image",
-        "heading",
-        "text"
-      ],
-      "settings": {
-        "image_height": "600px",
-        "image_width": "medium",
-        "layout": "image_first",
-        "text_alignment": "left",
-        "content_position": "align-self-center",
-        "image_height_mobile": "400px",
-        "text_alignment_mobile": "left",
-        "color_text": "#171717",
-        "color_background": "",
-        "gradient_background": "",
-        "color_background_2": "#fafafa",
-        "gradient_background_2": "",
-        "color_highlight": "",
-        "gradient_highlight": "",
-        "color_button_text": "",
-        "color_button_background": "",
-        "color_button_gradient": "",
-        "padding_top": 72,
-        "padding_bottom": 72,
-        "divider": false,
-        "full_width": false,
-        "rounded": false,
-        "enable_parallax": false,
-        "parallax_direction": "vertical"
-      }
-    },
-    "scrolling-text": {
-      "type": "scrolling-text",
-      "blocks": {
-        "text": {
-          "type": "text",
-          "settings": {
-            "text": "<em><strong>Free shipping and returns</strong></em>",
-            "text_size": 160,
-            "text_font": "body",
-            "highlighted_text": "stencil",
-            "highlighted_scribble": "circle"
-          }
-        }
-      },
-      "block_order": [
-        "text"
-      ],
-      "settings": {
-        "direction": "left",
-        "speed": 20,
-        "grid_horizontal": 70,
-        "enable_twin": false,
-        "enable_parallax": true,
-        "color_text": "",
-        "color_background": "",
-        "gradient_background": "",
-        "color_highlight": "",
-        "gradient_highlight": "",
-        "padding_top": 28,
-        "padding_bottom": 28,
-        "divider": false,
-        "rounded": false
-      }
-    },
-    "image-with-text-2": {
-      "type": "image-with-text",
-      "blocks": {
-        "image": {
-          "type": "image",
-          "settings": {
-            "image_width": "custom",
-            "image_max_width": 50,
-            "image_max_width_mobile": 50
-          }
-        },
-        "heading": {
-          "type": "heading",
-          "settings": {
-            "heading": "Image with text",
-            "heading_size": "title-md",
-            "heading_tag": "h2",
-            "highlighted_text": "none",
-            "highlighted_scribble": "circle"
-          }
-        },
-        "text": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
-            "text_size": "subtext-md",
-            "text_max_size": 32,
-            "text_font": "body",
-            "secondary_color": false,
-            "highlighted_text": "none",
-            "highlighted_scribble": "circle"
-          }
-        }
-      },
-      "block_order": [
-        "image",
-        "heading",
-        "text"
-      ],
-      "settings": {
-        "image_height": "600px",
-        "image_width": "medium",
-        "layout": "text_first",
-        "text_alignment": "left",
-        "content_position": "align-self-center",
-        "image_height_mobile": "400px",
-        "text_alignment_mobile": "left",
-        "color_text": "#171717",
-        "color_background": "",
-        "gradient_background": "",
-        "color_background_2": "#fafafa",
-        "gradient_background_2": "",
-        "color_highlight": "",
-        "gradient_highlight": "",
-        "color_button_text": "",
-        "color_button_background": "",
-        "color_button_gradient": "",
-        "padding_top": 72,
-        "padding_bottom": 72,
-        "divider": false,
-        "full_width": false,
-        "rounded": false,
-        "enable_parallax": false,
-        "parallax_direction": "vertical"
-      }
-    },
     "faq": {
       "type": "faq",
       "blocks": {
         "question-1": {
           "type": "question",
           "settings": {
-            "title": "Frequently asked question",
-            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>",
+            "title": "Quels sont les ingrédients de MORO FIT 400 ?",
+            "text": "<p>MORO FIT 400 contient un extrait breveté d’orange rouge de Sicile appelé Morosil® (Citrus Sinensis), associé à du guarana, du cola et du vinaigre de cidre. Tous les ingrédients sont d’origine naturelle.</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
@@ -416,8 +250,8 @@
         "question-2": {
           "type": "question",
           "settings": {
-            "title": "Frequently asked question",
-            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>",
+            "title": "Quelle est la posologie recommandée ?",
+            "text": "<p>La dose recommandée est d’<strong>une gélule par jour</strong>, à prendre de préférence le matin avec un verre d’eau.</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
@@ -425,8 +259,8 @@
         "question-3": {
           "type": "question",
           "settings": {
-            "title": "Frequently asked question",
-            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>",
+            "title": "Combien de temps dure une boîte de MORO FIT 400 ?",
+            "text": "<p>Chaque boîte contient <strong>60 gélules</strong>, soit une <strong>cure de 2 mois</strong>.</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
@@ -434,8 +268,8 @@
         "question-4": {
           "type": "question",
           "settings": {
-            "title": "Frequently asked question",
-            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>",
+            "title": "Peut-on prendre MORO FIT 400 pendant l’allaitement ?",
+            "text": "<p>Par précaution, la prise de ce complément alimentaire n’est <strong>pas recommandée pendant l’allaitement</strong>. Consultez un professionnel de santé en cas de doute.</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
@@ -443,8 +277,26 @@
         "question-5": {
           "type": "question",
           "settings": {
-            "title": "Frequently asked question",
-            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>",
+            "title": "MORO FIT 400 est-il fabriqué en France ?",
+            "text": "<p>Ce complément est destiné aux adultes souhaitant accompagner leur hygiène de vie avec une solution naturelle, dans le cadre d’un mode de vie sain et d’une alimentation équilibrée.</p>",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "question_PqJx9g": {
+          "type": "question",
+          "settings": {
+            "title": "Ce produit est-il vegan et sans gluten ?",
+            "text": "<p>Oui, la formule est <strong>vegan</strong>, <strong>sans gluten</strong> et <strong>sans sucres ajoutés</strong>.</p>",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "question_faWD99": {
+          "type": "question",
+          "settings": {
+            "title": "Quels sont vos engagements pour la satisfaction client ?",
+            "text": "<p>Nous offrons un support client réactif, une politique de retour sous 14 jours, et des produits conçus avec des standards de qualité élevés.</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
@@ -452,8 +304,8 @@
         "contact": {
           "type": "contact",
           "settings": {
-            "heading": "Didn’t find your answer?",
-            "text": "<p>Don't hestitate to contact us</p>",
+            "heading": "Vous ne trouvez pas votre réponse ?",
+            "text": "<p>Contactez notre équipe</p>",
             "show_phone": false,
             "avatar_height": 60,
             "highlighted_text": "none",
@@ -467,6 +319,8 @@
         "question-3",
         "question-4",
         "question-5",
+        "question_PqJx9g",
+        "question_faWD99",
         "contact"
       ],
       "settings": {
@@ -476,7 +330,7 @@
         "heading_alignment": "text-left md:items-end md:flex-row",
         "heading_tag": "h2",
         "subheading": "",
-        "description": "<p>Please read our <a href=\"#\" title=\"FAQ's\">FAQs</a> page to find out more.</p>",
+        "description": "<p>Réponses à toutes vos questions</p>",
         "button_label": "",
         "button_link": "",
         "button_external": false,
@@ -502,6 +356,7 @@
     },
     "product-recommendations": {
       "type": "product-recommendations",
+      "disabled": true,
       "settings": {
         "product_limit": 6,
         "columns": 4,
@@ -567,9 +422,6 @@
   "order": [
     "main-product",
     "help-drawer",
-    "image-with-text-1",
-    "scrolling-text",
-    "image-with-text-2",
     "faq",
     "product-recommendations",
     "recently-viewed"

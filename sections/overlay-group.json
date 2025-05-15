@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "name": "t:sections.overlay-group.name",
   "type": "custom.overlay",
@@ -10,19 +19,17 @@
         "show_shipping_calculator": true,
         "show_view_cart_button": true,
         "show_checkout_button": true,
-        "show_free_shipping_bar": true,
+        "show_free_shipping_bar": false,
         "free_shipping_minimum_amount": "1000",
-        "cart_recommendations_enabled": true,
+        "cart_recommendations_enabled": false,
         "cart_recommendations_heading": "You may also like",
         "cart_recommendations_limit": 5,
         "show_cart_recommendations_vendor": false,
         "show_cart_recommendations_price": true,
-        "cart_recommendations_products": [
-        ],
-        "empty_cart_message": "<p>Not sure where to start?<br\/>Try these collections:</p>",
-        "empty_cart_collections": [
-        ],
-        "recent_products_enabled": true,
+        "cart_recommendations_products": [],
+        "empty_cart_message": "",
+        "empty_cart_collections": [],
+        "recent_products_enabled": false,
         "recent_products_heading": "Recently viewed",
         "recent_products_limit": 5,
         "show_recent_products_vendor": false,
@@ -31,8 +38,7 @@
     },
     "search-drawer": {
       "type": "search-drawer",
-      "settings": {
-      }
+      "settings": {}
     },
     "newsletter-popup": {
       "type": "newsletter-popup",
@@ -68,8 +74,7 @@
         },
         "form": {
           "type": "form",
-          "settings": {
-          }
+          "settings": {}
         },
         "text-2": {
           "type": "text",
@@ -85,8 +90,7 @@
         },
         "media": {
           "type": "media",
-          "settings": {
-          }
+          "settings": {}
         },
         "floating": {
           "type": "floating",
@@ -119,7 +123,6 @@
         "expiry": 30,
         "text_alignment": "left",
         "content_position": "right-0",
-        "image": "",
         "color_drawer_text": "#171717",
         "color_drawer_background": "#ffffff",
         "color_drawer_highlight": "#ffddbf",
@@ -166,7 +169,8 @@
           "settings": {
             "button_label_1": "Yes, I am",
             "button_label_2": "No, I’m not",
-            "button_link_2": ""
+            "button_link_2": "",
+            "button_external_2": false
           }
         }
       },
@@ -182,8 +186,6 @@
         "expiry": 30,
         "text_alignment": "center",
         "content_position": "center-0",
-        "image": "",
-        "background_image": "",
         "blur_background_image": false,
         "color_drawer_text": "#171717",
         "color_drawer_background": "#ffffff",
@@ -282,7 +284,8 @@
           "settings": {
             "custom_icon": "",
             "title": "Shop",
-            "link": "shopify:\/\/collections\/all"
+            "link": "shopify://collections/all",
+            "external": false
           }
         },
         "mobile-dock-5": {

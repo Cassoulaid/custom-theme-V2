@@ -27,6 +27,14 @@
             "liquid": "🍊 Extrait naturel d’orange rouge de Sicile<br>🌿 Mode de vie équilibré et varié<br>✨ Accompagne vos objectifs bien-être"
           }
         },
+        "icon_list_RtGJyr": {
+          "type": "icon_list",
+          "settings": {
+            "heading": "",
+            "enable_carousel": false,
+            "show_below_media": false
+          }
+        },
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
@@ -129,6 +137,7 @@
       "block_order": [
         "title",
         "liquid_w7mEhp",
+        "icon_list_RtGJyr",
         "variant_picker",
         "buy_buttons",
         "collapsible_tab_F96W9g",

@@ -103,7 +103,7 @@
           "type": "text",
           "settings": {
             "heading": "Notre société",
-            "text": "<p>Docteur V</p><p>57 RUE VICTOR BALTARD, 59200 TOURCOING France</p><p>Siret : 934 468 414 00016</p>",
+            "text": "<p>Docteur V</p><p>57 RUE VICTOR BALTARD </p><p>59200 TOURCOING, France</p><p>Siret : 934 468 414 00016</p>",
             "container_width": 50,
             "opened": false
           }

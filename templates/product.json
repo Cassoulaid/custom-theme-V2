@@ -30,7 +30,7 @@
         "icon_list_RtGJyr": {
           "type": "icon_list",
           "settings": {
-            "heading": "Avantages",
+            "heading": "",
             "enable_carousel": true,
             "show_below_media": false
           }

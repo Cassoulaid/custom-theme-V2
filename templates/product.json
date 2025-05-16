@@ -30,8 +30,8 @@
         "icon_list_RtGJyr": {
           "type": "icon_list",
           "settings": {
-            "heading": "custom.benefits",
-            "enable_carousel": false,
+            "heading": "Avantages",
+            "enable_carousel": true,
             "show_below_media": false
           }
         },

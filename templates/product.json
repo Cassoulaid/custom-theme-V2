@@ -31,7 +31,7 @@
           "type": "icon_list",
           "settings": {
             "heading": "Avantages",
-            "enable_carousel": false,
+            "enable_carousel": true,
             "show_below_media": false
           }
         },
